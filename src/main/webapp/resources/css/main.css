@@ -1,0 +1,61 @@
+body{
+	padding-top:100px;
+	align:bottom;
+	background-color:lightgreen;
+}
+input
+{
+	color:blue;
+	border: 2px solid red;
+}
+label
+{
+	color:blue;
+}
+.form1{
+	padding-left:530px;
+	padding-top:60px;
+}
+.form2{
+	padding-left:650px;
+	padding-top:-10px;
+	position:absolute;
+	top:56%;
+	
+}
+.sub1{
+	 position:absolute;
+	 top:56%;
+	 left:40%;
+	background-color:pink;
+}
+.sub2{
+	
+	background-color:pink;
+}
+.sign1{
+	padding-left:530px;
+	padding-top:60px;
+}
+.sub3{
+	position:absolute;
+	top:67%;
+	left:45%;
+	background-color:pink;
+}
+.rate{
+	border: 2px solid red;
+}
+table{
+	display:table;
+	border-collapse:separate;
+	border-spacing:2px;
+	border-color:gray;
+	align:center;
+}
+.sub4{
+	position:relative;
+	top:67%;
+	left:45%;
+	background-color:pink;
+}
